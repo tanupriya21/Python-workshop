@@ -1,0 +1,4 @@
+Classes in python are like blueprints for creating objects.
+Encapsulation is concept that restricts access to certain point of an object.
+Inheritance:-
+Inheritance allows you to create new classes that inherit properties and methods from existing classes.
